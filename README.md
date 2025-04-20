@@ -14,7 +14,7 @@
 
 # For modders who want to customize it
 
-- For anyone who wants to create a spawnitem mod, go to this link : https://github.com/drilixyr/REPO-IVSpawner/edit/main/README.md. You’ll find all the content of this mod and you can change anything
+- For anyone who wants to create a spawnitem mod, go to this link : https://github.com/drilixyr/REPO-IVSpawner. You’ll find all the content of this mod and you can change anything
 
 # How to build? (for developers only)
 
