@@ -38,4 +38,5 @@
 - If the mod builds but doesn't work in-game, double-check the project is targeting .NET Standard 2.1 and that you are using the correct REPOLib version.
   
 **Logo made by https://github.com/spxnso**
+
 **Thanks, Spxnso for the help <3**
