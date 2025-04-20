@@ -36,7 +36,9 @@
 - Make sure the .dll is in the correct folder: BepInEx\plugins\
 
 - If the mod builds but doesn't work in-game, double-check the project is targeting .NET Standard 2.1 and that you are using the correct REPOLib version.
-  
+
+- For assistance with developing your mod, check out this Wiki: https://repomods.com/overview.html
+
 **Logo made by https://github.com/spxnso**
 
 **Thanks, Spxnso for the help <3**
