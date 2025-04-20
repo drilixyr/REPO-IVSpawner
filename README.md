@@ -39,6 +39,8 @@
 
 - For assistance with developing your mod, check out this Wiki: https://repomods.com/overview.html
 
+**Mod made by https://github.com/drilixyr**
+
 **Logo made by https://github.com/spxnso**
 
 **Thanks, Spxnso for the help <3**
